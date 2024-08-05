@@ -1,5 +1,6 @@
+nginx
 #支持私库
 opengrok/docker
-universalrobots/ursim_cb3:latest
+#universalrobots/ursim_cb3:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
