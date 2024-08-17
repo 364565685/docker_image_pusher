@@ -5,6 +5,7 @@ opengrok/docker
 #ddsderek/iyuuplus
 #linuxserver/transmission:latest
 #linuxserver/qbittorrent:latest
-superng6/qbittorrentee:latest
+#superng6/qbittorrentee:latest
+probezy/cpolar:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
