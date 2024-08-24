@@ -6,6 +6,7 @@ opengrok/docker
 #linuxserver/transmission:latest
 #linuxserver/qbittorrent:latest
 #superng6/qbittorrentee:latest
-probezy/cpolar:latest
+#probezy/cpolar:latest
+linuxserver/transmission:version-3.00-r8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
