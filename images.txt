@@ -8,6 +8,7 @@ opengrok/docker
 #superng6/qbittorrentee:latest
 #probezy/cpolar:latest
 #linuxserver/transmission:version-3.00-r8
-iyuucn/iyuuplus
+#iyuucn/iyuuplus
+jxxghp/moviepilot-v2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
